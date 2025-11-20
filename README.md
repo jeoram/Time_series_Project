@@ -2,7 +2,9 @@
 🎯 Objectif du projet
 
 Ce projet consiste à réécrire un notebook de séries temporelles (Time Series) en utilisant PyTorch, tout en comparant cette nouvelle implémentation avec le notebook d’origine.
-L’objectif est d’obtenir une version plus claire, plus modulaire, et orientée vers l’entraînement d’un modèle réellement déployable.
+L’objectif est d’obtenir une version plus claire, plus modulaire, et orientée vers l’entraînement d’un modèle réellement déployable. Selon la base donnée Airline passenger. 
+original_notebook : ANN_Airline
+Rewriting_notebook : Airline_Pytorch
 
 🔍 Contenu du projet
 
