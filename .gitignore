@@ -1,0 +1,32 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# --- Environnements virtuels ---
+venv/
+.env/
+.venv/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+
+# --- Logs ---
+*.log
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+
+# --- IDE ---
+.vscode/
+.idea/
+
+# --- PyTorch checkpoints ---
+*.pth
+*.pt
+
+# --- Cache ---
+.cache/
